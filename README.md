@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="./fig/biomni_logo.png" alt="Biomni Logo" width="600px" />
+  <img src="./figs/biomni_logo.png" alt="Biomni Logo" width="600px" />
 </p>
 
 <p align="center">
-<a href="https://join.slack.com/t/biomnigroup/shared_invite/zt-37ab9u7lt-QymB6wj37SqZAjau8rR3rw">
+<a href="https://join.slack.com/t/biomnigroup/shared_invite/zt-38dat07mc-mmDIYzyCrNtV4atULTHRiw">
 <img src="https://img.shields.io/badge/Join-Slack-4A154B?style=for-the-badge&logo=slack" alt="Join Slack" />
 </a>
 <a href="https://biomni.stanford.edu">
